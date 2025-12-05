@@ -1,0 +1,14 @@
+# node / npm
+node_modules/
+build/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# env files and editor
+.env
+backend/.env
+.vscode/
+.DS_Store
